@@ -10,7 +10,8 @@ public class FipsTests {
             if (temp[i] == 1)
                 counter++;
         }
-        if(counter >= bbsGenerator.getStream().length*0.45 && counter <= bbsGenerator.getStream().length*0.55)
+        //if(counter >= bbsGenerator.getStream().length*0.45 && counter <= bbsGenerator.getStream().length*0.55)
+        if(counter >= 9654 && counter <= 10346)
         {
             return true;
         }
@@ -79,6 +80,56 @@ public class FipsTests {
         }
         double x = 0.0032*sum-5000;
         System.out.println("poker test:" + x);
+        if(x<57.4&&x>1.03){
+            System.out.println("poker test zdany");
+        }
+        else System.out.println("poker test nie zdany");
     }
-
+    public void longRuns(BBSGenerator bbsGenerator){
+        int[] temp = bbsGenerator.getStream();
+        boolean flag;
+        int counter = 0;
+        int biggest = 0;
+        for (int i = 1; i < bbsGenerator.getStream().length ; i++) {
+            if(temp[i]==temp[i-1])
+            {
+                counter++;
+            }
+            else if(temp[i]!=temp[i-1])
+                counter = 0;
+            if(biggest<counter){
+                biggest=counter;
+            }
+        }
+        if(biggest >26)
+        {
+            System.out.println("long runs test nie zdany: "+biggest);
+        }
+        else{
+            System.out.println("long runs zdany: "+biggest);
+        }
+    }
+    public void runsTest(BBSGenerator bbsGenerator){
+        int[] temp = bbsGenerator.getStream();
+        int[] end = {0,0,0,0,0,0,0};
+        int wiel = 0;
+        int old = temp[0];
+        for (int i = 1; i < bbsGenerator.getStream().length ; i++) {
+        if(old == temp[i]){
+            wiel++;
+        }
+        else{
+            if(wiel<7){
+                end[wiel]++;
+            }
+            else{
+                end[6]++;
+            }
+            wiel = 0;
+        }
+        }
+        for (int i = 1; i < end.length; i++) {
+            System.out.println(i+": "+end[i]);
+        }
+    }
 }

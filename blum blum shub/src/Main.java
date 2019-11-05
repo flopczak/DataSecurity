@@ -20,9 +20,10 @@ public class Main {
         gen.cout();
         System.out.println("");
         System.out.println("One bit test: " + fipsTests.oneBitTest(gen));
-        fipsTests.doubleBitTest(gen);
+        //fipsTests.doubleBitTest(gen);
         fipsTests.pokerTest(gen);
-
+        fipsTests.longRuns(gen);
+        fipsTests.runsTest(gen);
         context.close();
     }
 }
