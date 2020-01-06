@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="039570f9-dc9e-4bce-85e5-e11e8628b5d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VxYu0zBgbAXDzpdmU5Sry9Lcnb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="FunkcjeSkrótu" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="039570f9-dc9e-4bce-85e5-e11e8628b5d4" name="Default Changelist" comment="" />
+      <created>1578196431286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578196431286</updated>
+      <workItem from="1578196497546" duration="4433000" />
+      <workItem from="1578293969702" duration="7835000" />
+      <workItem from="1578338882600" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1578200040922">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="718" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578200040922" />
+    <state x="543" y="228" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578203434652">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="543" y="228" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578203434652" />
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom" timestamp="1578314781804">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom/0.0.1827.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578314781804" />
+    <state width="1784" height="351" key="GridCell.Tab.0.bottom/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297881197" />
+    <state width="1877" height="351" key="GridCell.Tab.0.center" timestamp="1578314781803">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.center/0.0.1827.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578314781803" />
+    <state width="1784" height="351" key="GridCell.Tab.0.center/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297881197" />
+    <state width="1877" height="351" key="GridCell.Tab.0.left" timestamp="1578314781803">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.left/0.0.1827.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578314781803" />
+    <state width="1784" height="351" key="GridCell.Tab.0.left/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297881197" />
+    <state width="1877" height="351" key="GridCell.Tab.0.right" timestamp="1578314781803">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1827.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578314781803" />
+    <state width="1784" height="351" key="GridCell.Tab.0.right/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297881197" />
+    <state width="1784" height="364" key="GridCell.Tab.1.bottom" timestamp="1578297853238">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="364" key="GridCell.Tab.1.bottom/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297853238" />
+    <state width="1784" height="364" key="GridCell.Tab.1.center" timestamp="1578297853238">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="364" key="GridCell.Tab.1.center/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297853238" />
+    <state width="1784" height="364" key="GridCell.Tab.1.left" timestamp="1578297853238">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="364" key="GridCell.Tab.1.left/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297853238" />
+    <state width="1784" height="364" key="GridCell.Tab.1.right" timestamp="1578297853238">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="364" key="GridCell.Tab.1.right/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578297853238" />
+    <state x="-1480" y="94" key="SettingsEditor" timestamp="1578315630434">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="SettingsEditor/0.0.1827.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578315630434" />
+    <state x="610" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1578338900706">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="610" y="363" key="com.intellij.ide.util.TipDialog/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578338900706" />
+    <state x="620" y="158" key="refactoring.ChangeSignatureDialog" timestamp="1578295629555">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="620" y="158" key="refactoring.ChangeSignatureDialog/0.0.1827.1080/-1920.0.1920.1040@0.0.1827.1080" timestamp="1578295629555" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/FSkrotu.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/FSkrotu.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

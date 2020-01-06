@@ -10,7 +10,7 @@ public class Client {
     SecureRandom random = new SecureRandom();
     public Client()
     {
-        this.x = BigInteger.valueOf(random.nextInt(100000)+100);
+        this.x = BigInteger.valueOf(random.nextInt(1000000000)+10000000);
         //this.x.equals(BigInteger.valueOf(random.nextInt(1000000)+10000));
     }
 
